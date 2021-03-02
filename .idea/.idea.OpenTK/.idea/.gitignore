@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/modules.xml
+/contentModel.xml
+/.idea.OpenTK.iml
+/projectSettingsUpdater.xml
+# Datasource local storage ignored files
+/../../../../../:\OpenTK\.idea\.idea.OpenTK\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
