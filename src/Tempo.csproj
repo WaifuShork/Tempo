@@ -6,4 +6,9 @@
         <RootNamespace>OpenTK</RootNamespace>
     </PropertyGroup>
 
+    <ItemGroup>
+      <PackageReference Include="OpenTK" Version="4.5.0" />
+      <PackageReference Include="System.Drawing.Common" Version="6.0.0-preview.1.21102.12" />
+    </ItemGroup>
+
 </Project>

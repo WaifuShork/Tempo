@@ -1,7 +1,6 @@
 @echo off 
 
-dotnet restore OpenTK.sln
-dotnet clean OpenTK.sln
-dotnet build OpenTK.sln
-
-dotnet run --project src/OpenTK.csproj
+REM Restore, Clean & Build
+dotnet restore Tempo.sln
+dotnet clean Tempo.sln
+dotnet build Tempo.sln
