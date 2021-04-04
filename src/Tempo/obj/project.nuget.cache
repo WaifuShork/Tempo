@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "JRr0pXMhRbdd0M1FERky1Zt1V1dqKHJpaESpNAiB0PllhglLjzXDCDaVNGCTSmh73IWBkXaclcQ5XsHXg4csQw==",
+  "success": true,
+  "projectFilePath": "D:\\Tempo\\src\\Tempo\\Tempo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ashle\\.nuget\\packages\\microsoft.netcore.platforms\\6.0.0-preview.1.21102.12\\microsoft.netcore.platforms.6.0.0-preview.1.21102.12.nupkg.sha512",
+    "C:\\Users\\ashle\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0-preview.1.21102.12\\microsoft.win32.systemevents.6.0.0-preview.1.21102.12.nupkg.sha512",
+    "C:\\Users\\ashle\\.nuget\\packages\\opentk\\4.5.0\\opentk.4.5.0.nupkg.sha512",
+    "C:\\Users\\ashle\\.nuget\\packages\\opentk.compute\\4.5.0\\opentk.compute.4.5.0.nupkg.sha512",
+    "C:\\Users\\ashle\\.nuget\\packages\\opentk.core\\4.5.0\\opentk.core.4.5.0.nupkg.sha512",
+    "C:\\Users\\ashle\\.nuget\\packages\\opentk.graphics\\4.5.0\\opentk.graphics.4.5.0.nupkg.sha512",
+    "C:\\Users\\ashle\\.nuget\\packages\\opentk.input\\4.5.0\\opentk.input.4.5.0.nupkg.sha512",
+    "C:\\Users\\ashle\\.nuget\\packages\\opentk.mathematics\\4.5.0\\opentk.mathematics.4.5.0.nupkg.sha512",
+    "C:\\Users\\ashle\\.nuget\\packages\\opentk.openal\\4.5.0\\opentk.openal.4.5.0.nupkg.sha512",
+    "C:\\Users\\ashle\\.nuget\\packages\\opentk.redist.glfw\\3.3.0-pre20200830200122\\opentk.redist.glfw.3.3.0-pre20200830200122.nupkg.sha512",
+    "C:\\Users\\ashle\\.nuget\\packages\\opentk.windowing.common\\4.5.0\\opentk.windowing.common.4.5.0.nupkg.sha512",
+    "C:\\Users\\ashle\\.nuget\\packages\\opentk.windowing.desktop\\4.5.0\\opentk.windowing.desktop.4.5.0.nupkg.sha512",
+    "C:\\Users\\ashle\\.nuget\\packages\\opentk.windowing.graphicslibraryframework\\4.5.0\\opentk.windowing.graphicslibraryframework.4.5.0.nupkg.sha512",
+    "C:\\Users\\ashle\\.nuget\\packages\\system.drawing.common\\6.0.0-preview.1.21102.12\\system.drawing.common.6.0.0-preview.1.21102.12.nupkg.sha512"
+  ],
+  "logs": []
+}
